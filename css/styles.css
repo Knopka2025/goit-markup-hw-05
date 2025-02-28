@@ -674,7 +674,6 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     letter-spacing: 0.04em;
     margin-bottom: 4px;
     display: block;
-    margin-bottom: 8px;
 }
 
 .modal-icon-wrap {
@@ -747,7 +746,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
 
 .modal-check-input:checked+.modal-check-text .modal-check-box {
     background-color: #404BBF;
-    fill: #ffffff;
+    fill: #F4F4FD;
     border: none;
 }
 

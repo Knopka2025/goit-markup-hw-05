@@ -747,7 +747,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
 
 .modal-check-input:checked+.modal-check-text .modal-check-box {
     background-color: #404BBF;
-    fill: #F4F4FD;
+    fill: #ffffff;
     border: none;
 }
 
@@ -757,6 +757,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     line-height: 1.17;
     letter-spacing: 0.04em;
     cursor: pointer;
+    margin-bottom: 4px;
 }
 
 .modal-check-box {
@@ -789,6 +790,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
 .modal-link-pp:hover,
 .modal-link-pp:focus {
     color: #404bbf;
+    
 }
 
 .modal-btn-sub {
